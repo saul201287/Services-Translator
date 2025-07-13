@@ -1,0 +1,1017 @@
+{
+  "dataset_name": "Zapoteco_Istmo-Español",
+  "language_pair": ["zapoteco_istmo", "español"],
+  "version": "1.3",
+  "examples": [
+    {
+      "zapoteco": "abati'",
+      "español": "ninguna parte",
+      "category": "adverbio"
+    },
+    {
+      "zapoteco": "adxagayá'",
+      "español": "payasada, tontería",
+      "category": "sustantivo"
+    },
+    {
+      "zapoteco": "adxé",
+      "español": "diferente, distinto",
+      "category": "adjetivo"
+    },
+    {
+      "zapoteco": "aguxa'",
+      "español": "aguja",
+      "category": "sustantivo"
+    },
+    {
+      "zapoteco": "amá",
+      "español": "mamá",
+      "category": "sustantivo"
+    },
+    {
+      "zapoteco": "ba'du'",
+      "español": "niño, niña, chamaco, chamaca",
+      "category": "sustantivo"
+    },
+    {
+      "zapoteco": "bataná'",
+      "español": "mano",
+      "category": "sustantivo",
+      "note": "ndaani bataná' = palma de la mano"
+    },
+    {
+      "zapoteco": "bé",
+      "español": "moho; nube en los ojos",
+      "category": "sustantivo"
+    },
+    {
+      "zapoteco": "binni",
+      "español": "persona, gente, pueblo",
+      "category": "sustantivo"
+    },
+    {
+      "zapoteco": "bi",
+      "español": "viento, aire, aliento",
+      "category": "sustantivo"
+    },
+    {
+      "zapoteco": "co'",
+      "español": "no",
+      "category": "adverbio",
+      "usage": "usado en respuestas"
+    },
+    {
+      "zapoteco": "dxita",
+      "español": "hueso; huevo",
+      "category": "sustantivo",
+      "variations": ["dxita bere = huevo", "dxita xa'na' = cadera"]
+    },
+    {
+      "zapoteco": "guela'",
+      "español": "noche",
+      "category": "sustantivo"
+    },
+    {
+      "zapoteco": "gueta",
+      "español": "tortilla",
+      "category": "sustantivo",
+      "variations": [
+        "gueta dxaa = tortilla blandita",
+        "gueta zuquii = tortilla hecha en el horno"
+      ]
+    },
+    {
+      "zapoteco": "nisa",
+      "español": "agua",
+      "category": "sustantivo",
+      "variations": ["nisa guie = lluvia", "nisa lú = lágrimas"]
+    },
+    {
+      "zapoteco": "ro",
+      "español": "comer",
+      "category": "verbo",
+      "variations": ["ro xhi = cenar", "ro yaga = morder"]
+    },
+    {
+      "zapoteco": "xheela'",
+      "español": "esposo, esposa",
+      "category": "sustantivo"
+    },
+    {
+      "zapoteco": "yaga",
+      "español": "árbol, madera, leña, planta, palo, arbusto",
+      "category": "sustantivo"
+    },
+    {
+      "zapoteco": "zapatu",
+      "español": "zapato",
+      "category": "sustantivo"
+    },
+    {
+      "zapoteco": "ziña",
+      "español": "palma (árbol)",
+      "category": "sustantivo"
+    },
+    {
+      "zapoteco": "tobi",
+      "español": "uno",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chupa",
+      "español": "dos",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chona",
+      "español": "tres",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "tapa",
+      "español": "cuatro",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "gaayu'",
+      "español": "cinco",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "xhoopa",
+      "español": "seis",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "ga'dxi",
+      "español": "siete",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "xhonu",
+      "español": "ocho",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "gaa",
+      "español": "nueve",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chi",
+      "español": "diez",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chi tobi",
+      "español": "once",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chi chupa",
+      "español": "doce",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chi chona",
+      "español": "trece",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chi tapa",
+      "español": "catorce",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chi gaayu'",
+      "español": "quince",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chi xhoopa",
+      "español": "dieciséis",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chi ga'dxi",
+      "español": "diecisiete",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chi xhonu",
+      "español": "dieciocho",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chi gaa",
+      "español": "diecinueve",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "guitu",
+      "español": "veinte",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "guitu tobi",
+      "español": "veintiuno",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "guitu chupa",
+      "español": "veintidós",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "guitu chona",
+      "español": "veintitrés",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "guitu tapa",
+      "español": "veinticuatro",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "guitu gaayu'",
+      "español": "veinticinco",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "guitu xhoopa",
+      "español": "veintiséis",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "guitu ga'dxi",
+      "español": "veintisiete",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "guitu xhonu",
+      "español": "veintiocho",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "guitu gaa",
+      "español": "veintinueve",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chigaayu'",
+      "español": "treinta",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chigaayu' tobi",
+      "español": "treinta y uno",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chigaayu' chupa",
+      "español": "treinta y dos",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chigaayu' chona",
+      "español": "treinta y tres",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chigaayu' tapa",
+      "español": "treinta y cuatro",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chigaayu' gaayu'",
+      "español": "treinta y cinco",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chigaayu' xhoopa",
+      "español": "treinta y seis",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chigaayu' ga'dxi",
+      "español": "treinta y siete",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chigaayu' xhonu",
+      "español": "treinta y ocho",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chigaayu' gaa",
+      "español": "treinta y nueve",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu",
+      "español": "cuarenta",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu tobi",
+      "español": "cuarenta y uno",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu chupa",
+      "español": "cuarenta y dos",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu chona",
+      "español": "cuarenta y tres",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu tapa",
+      "español": "cuarenta y cuatro",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu gaayu'",
+      "español": "cuarenta y cinco",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu xhoopa",
+      "español": "cuarenta y seis",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu ga'dxi",
+      "español": "cuarenta y siete",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu xhonu",
+      "español": "cuarenta y ocho",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu gaa",
+      "español": "cuarenta y nueve",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu chi",
+      "español": "cincuenta",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu chi tobi",
+      "español": "cincuenta y uno",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu chi chupa",
+      "español": "cincuenta y dos",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu chi chona",
+      "español": "cincuenta y tres",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu chi tapa",
+      "español": "cincuenta y cuatro",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu chi gaayu'",
+      "español": "cincuenta y cinco",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu chi xhoopa",
+      "español": "cincuenta y seis",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu chi ga'dxi",
+      "español": "cincuenta y siete",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu chi xhonu",
+      "español": "cincuenta y ocho",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu chi gaa",
+      "español": "cincuenta y nueve",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu guitu",
+      "español": "sesenta",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu guitu tobi",
+      "español": "sesenta y uno",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu guitu chupa",
+      "español": "sesenta y dos",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu guitu chona",
+      "español": "sesenta y tres",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu guitu tapa",
+      "español": "sesenta y cuatro",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu guitu gaayu'",
+      "español": "sesenta y cinco",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu guitu xhoopa",
+      "español": "sesenta y seis",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu guitu ga'dxi",
+      "español": "sesenta y siete",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu guitu xhonu",
+      "español": "sesenta y ocho",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu guitu gaa",
+      "español": "sesenta y nueve",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu chigaayu'",
+      "español": "setenta",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu chigaayu' tobi",
+      "español": "setenta y uno",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu chigaayu' chupa",
+      "español": "setenta y dos",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu chigaayu' chona",
+      "español": "setenta y tres",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu chigaayu' tapa",
+      "español": "setenta y cuatro",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu chigaayu' gaayu'",
+      "español": "setenta y cinco",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu chigaayu' xhoopa",
+      "español": "setenta y seis",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu chigaayu' ga'dxi",
+      "español": "setenta y siete",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu chigaayu' xhonu",
+      "español": "setenta y ocho",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu chigaayu' gaa",
+      "español": "setenta y nueve",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu chiguitu",
+      "español": "ochenta",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu chiguitu tobi",
+      "español": "ochenta y uno",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu chiguitu chupa",
+      "español": "ochenta y dos",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu chiguitu chona",
+      "español": "ochenta y tres",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu chiguitu tapa",
+      "español": "ochenta y cuatro",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu chiguitu gaayu'",
+      "español": "ochenta y cinco",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu chiguitu xhoopa",
+      "español": "ochenta y seis",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu chiguitu ga'dxi",
+      "español": "ochenta y siete",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu chiguitu xhonu",
+      "español": "ochenta y ocho",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu chiguitu gaa",
+      "español": "ochenta y nueve",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu chiguitu chi",
+      "español": "noventa",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu chiguitu chi tobi",
+      "español": "noventa y uno",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu chiguitu chi chupa",
+      "español": "noventa y dos",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu chiguitu chi chona",
+      "español": "noventa y tres",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu chiguitu chi tapa",
+      "español": "noventa y cuatro",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu chiguitu chi gaayu'",
+      "español": "noventa y cinco",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu chiguitu chi xhoopa",
+      "español": "noventa y seis",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu chiguitu chi ga'dxi",
+      "español": "noventa y siete",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu chiguitu chi xhonu",
+      "español": "noventa y ocho",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chiguitu chiguitu chi gaa",
+      "español": "noventa y nueve",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "to bixho",
+      "español": "cien",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "to miil",
+      "español": "mil",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "chupa miil",
+      "español": "dos mil",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "to miyun",
+      "español": "un millón",
+      "category": "número cardinal"
+    },
+    {
+      "zapoteco": "dxi tobi",
+      "español": "primero",
+      "category": "número ordinal"
+    },
+    {
+      "zapoteco": "dxi chupa",
+      "español": "segundo",
+      "category": "número ordinal"
+    },
+    {
+      "zapoteco": "dxi chona",
+      "español": "tercero",
+      "category": "número ordinal"
+    },
+    {
+      "zapoteco": "dxi tapa",
+      "español": "cuarto",
+      "category": "número ordinal"
+    },
+    {
+      "zapoteco": "dxi gaayu'",
+      "español": "quinto",
+      "category": "número ordinal"
+    },
+    {
+      "zapoteco": "dxi xhoopa",
+      "español": "sexto",
+      "category": "número ordinal"
+    },
+    {
+      "zapoteco": "dxi ga'dxi",
+      "español": "séptimo",
+      "category": "número ordinal"
+    },
+    {
+      "zapoteco": "dxi xhonu",
+      "español": "octavo",
+      "category": "número ordinal"
+    },
+    {
+      "zapoteco": "dxi gaa",
+      "español": "noveno",
+      "category": "número ordinal"
+    },
+    {
+      "zapoteco": "dxi chi",
+      "español": "décimo",
+      "category": "número ordinal"
+    },
+    {
+      "zapoteco": "naxho",
+      "español": "primero (en orden)",
+      "category": "número ordinal"
+    },
+    {
+      "zapoteco": "naxho chupa",
+      "español": "segundo (en orden)",
+      "category": "número ordinal"
+    },
+    {
+      "zapoteco": "naxho chona",
+      "español": "tercero (en orden)",
+      "category": "número ordinal"
+    },
+    {
+      "zapoteco": "naxho tapa",
+      "español": "cuarto (en orden)",
+      "category": "número ordinal"
+    },
+    {
+      "zapoteco": "naxho gaayu'",
+      "español": "quinto (en orden)",
+      "category": "número ordinal"
+    },
+    {
+      "zapoteco": "naxho xhoopa",
+      "español": "sexto (en orden)",
+      "category": "número ordinal"
+    },
+    {
+      "zapoteco": "naxho ga'dxi",
+      "español": "séptimo (en orden)",
+      "category": "número ordinal"
+    },
+    {
+      "zapoteco": "naxho xhonu",
+      "español": "octavo (en orden)",
+      "category": "número ordinal"
+    },
+    {
+      "zapoteco": "naxho gaa",
+      "español": "noveno (en orden)",
+      "category": "número ordinal"
+    },
+    {
+      "zapoteco": "naxho chi",
+      "español": "décimo (en orden)",
+      "category": "número ordinal"
+    },
+    {
+      "zapoteco": "guitu",
+      "español": "mitad",
+      "category": "sustantivo"
+    },
+    {
+      "zapoteco": "cuatu",
+      "español": "cuarto (fracción)",
+      "category": "sustantivo"
+    },
+    {
+      "zapoteco": "cuartu",
+      "español": "cuarto (fracción)",
+      "category": "sustantivo",
+      "note": "Variante ortográfica de cuatu"
+    },
+    {
+      "zapoteco": "par",
+      "español": "par",
+      "category": "sustantivo"
+    },
+    {
+      "zapoteco": "dosena",
+      "español": "docena",
+      "category": "sustantivo"
+    },
+    {
+      "zapoteco": "docena",
+      "español": "docena",
+      "category": "sustantivo",
+      "note": "Variante ortográfica de dosena"
+    },
+    {
+      "zapoteco": "bixho",
+      "español": "centena",
+      "category": "sustantivo"
+    },
+    {
+      "zapoteco": "miil",
+      "español": "millar",
+      "category": "sustantivo"
+    },
+    {
+      "zapoteco": "miyun",
+      "español": "millón",
+      "category": "sustantivo"
+    },
+    {
+      "zapoteco": "bidxiguí",
+      "español": "araña",
+      "category": "sustantivo"
+    },
+    {
+      "zapoteco": "biguidi'",
+      "español": "mariposa",
+      "category": "sustantivo"
+    },
+    {
+      "zapoteco": "bizu",
+      "español": "avispa, abeja",
+      "category": "sustantivo"
+    },
+    {
+      "zapoteco": "beela",
+      "español": "carne",
+      "category": "sustantivo"
+    },
+    {
+      "zapoteco": "biaani'",
+      "español": "luz",
+      "category": "sustantivo"
+    },
+    {
+      "zapoteco": "cá",
+      "español": "escrito, pegado, puesto",
+      "category": "adjetivo"
+    },
+    {
+      "zapoteco": "bilá",
+      "español": "casi, por poco",
+      "category": "adverbio"
+    },
+    {
+      "zapoteco": "bacaguela",
+      "español": "tijereta, tijerilla",
+      "category": "sustantivo"
+    },
+    {
+      "zapoteco": "baca'nda'",
+      "español": "sombra",
+      "category": "sustantivo"
+    },
+    {
+      "zapoteco": "benda",
+      "español": "pescado, pez",
+      "category": "sustantivo"
+    },
+    {
+      "zapoteco": "beenda'",
+      "español": "culebra",
+      "category": "sustantivo"
+    },
+    {
+      "zapoteco": "bidxichi huana'",
+      "español": "pedacitos de loza",
+      "category": "sustantivo"
+    },
+    {
+      "zapoteco": "bia’si",
+      "español": "exactamente, completo",
+      "category": "adverbio"
+    },
+    {
+      "zapoteco": "ca",
+      "español": "plural, ese, eso",
+      "category": "partícula"
+    },
+    {
+      "zapoteco": "baba'",
+      "español": "comezón",
+      "category": "sustantivo"
+    },
+    {
+      "zapoteco": "bacaxaba",
+      "español": "tarántula venenosa",
+      "category": "sustantivo"
+    },
+    {
+      "zapoteco": "bacuela",
+      "español": "totomostle",
+      "category": "sustantivo"
+    },
+    {
+      "zapoteco": "badu",
+      "español": "huérfano",
+      "category": "sustantivo"
+    },
+    {
+      "zapoteco": "bidaani'",
+      "español": "huipil",
+      "category": "sustantivo"
+    },
+    {
+      "zapoteco": "bidxichi",
+      "español": "dinero",
+      "category": "sustantivo"
+    },
+    {
+      "zapoteco": "bia'",
+      "español": "como",
+      "category": "adverbio"
+    },
+    {
+      "zapoteco": "biaxi beela",
+      "español": "cicatrización",
+      "category": "sustantivo"
+    },
+    {
+      "zapoteco": "cadi",
+      "español": "no",
+      "category": "partícula"
+    },
+    {
+      "zapoteco": "caadxi",
+      "español": "poco",
+      "category": "adverbio"
+    },
+    {
+      "zapoteco": "bi'cu'",
+      "español": "perro",
+      "category": "sustantivo"
+    },
+    {
+      "zapoteco": "bere",
+      "español": "gallina",
+      "category": "sustantivo"
+    },
+    {
+      "zapoteco": "be’ñe’",
+      "español": "lagarto, cocodrilo, caimán",
+      "category": "sustantivo"
+    },
+    {
+      "zapoteco": "bichoxhe",
+      "español": "jitomate, tomate",
+      "category": "sustantivo"
+    },
+    {
+      "zapoteco": "bichu'",
+      "español": "concha",
+      "category": "sustantivo"
+    },
+    {
+      "zapoteco": "bichuga",
+      "español": "cáscara dura",
+      "category": "sustantivo"
+    },
+    {
+      "zapoteco": "biza’na’",
+      "español": "hermano de ella, hermana de él",
+      "category": "sustantivo"
+    },
+    {
+      "zapoteco": "Riene lu didxazá la?",
+      "español": "¿Entiendes (entiende) zapoteco?",
+      "category": "frase",
+      "contexto": "Aprendiendo zapoteco"
+    },
+    {
+      "zapoteco": "Huaxié' rinié didxazá.",
+      "español": "Hablo poco zapoteco.",
+      "category": "frase",
+      "contexto": "Aprendiendo zapoteco"
+    },
+    {
+      "zapoteco": "Cayaca nanda'ya'.",
+      "español": "Sí, tengo calor.",
+      "category": "frase",
+      "contexto": "El tiempo"
+    },
+    {
+      "zapoteco": "Nacabe nisa luque la?",
+      "español": "¿Es potable esa agua?",
+      "category": "frase",
+      "contexto": "En el mercado"
+    },
+    {
+      "zapoteco": "Nisa lú cayaca.",
+      "español": "Tengo sed.",
+      "category": "frase",
+      "contexto": "El tiempo"
+    },
+    {
+      "zapoteco": "Qué riene didxazá.",
+      "español": "No entiendo zapoteco.",
+      "category": "frase",
+      "contexto": "Aprendiendo zapoteco"
+    },
+    {
+      "zapoteco": "Riniú' didxazá la?",
+      "español": "¿Hablas (habla) zapoteco?",
+      "category": "frase",
+      "contexto": "Aprendiendo zapoteco"
+    },
+    {
+      "zapoteco": "Huaxhi' cayaca nanda'ya'.",
+      "español": "Hace calor.",
+      "category": "frase",
+      "contexto": "El tiempo"
+    },
+    {
+      "zapoteco": "Naxhi' guela cayaca?",
+      "español": "¿Cómo está el tiempo esta noche?",
+      "category": "frase",
+      "contexto": "El tiempo"
+    },
+    {
+      "zapoteco": "Qué cayaca nanda'ya' luque.",
+      "español": "No tengo calor.",
+      "category": "frase",
+      "contexto": "El tiempo"
+    },
+    {
+      "zapoteco": "Naxhi' cayaca guela ca?",
+      "español": "¿Cómo estuvo el tiempo anoche?",
+      "category": "frase",
+      "contexto": "El tiempo"
+    }
+  ],
+  "metadata": {
+    "source": "Vocabulario Zapoteco del Istmo (5a edición electrónica, 2a versión)",
+    "compilers": ["Velma Pickett y colaboradores"],
+    "institution": "Instituto Lingüístico de Verano, A.C.",
+    "year": 2013,
+    "license": "©2013 Instituto Lingüístico de Verano, A.C.",
+    "notes": [
+      "Incluye vocabulario básico, números cardinales (1-100), números ordinales (1-10), frases conversacionales, y préstamos del español",
+      "Números extraídos de Apéndice III (páginas 132-136), incluyendo cardinales, ordinales y términos relacionados",
+      "Frases extraídas de Apéndice V (páginas 138-144), con énfasis en saludos y expresiones conversacionales",
+      "Vocabulario adicional extraído de Zapoteco-Español (páginas 18-23)",
+      "Algunas entradas tienen múltiples significados o usos contextuales",
+      "El zapoteco del Istmo no distingue género en sustantivos/adjetivos (excepto préstamos)",
+      "Los verbos se presentan en forma base (3a persona singular aspecto habitual)",
+      "Basado en el subdialecto de Juchitán",
+      "Tonos preservados para mantener precisión fonológica"
+    ]
+  }
+}
