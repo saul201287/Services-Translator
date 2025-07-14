@@ -13,9 +13,9 @@ IDIOMAS = {
     },
     "tzeltal": {
         "csv": "data/diccionario_tseltal.csv",
-        "col_idioma": "tzeltal",
+        "col_idioma": "tseltal",
         "col_espanol": "español",
-        "modelo_dir": "models/tzeltal"
+        "modelo_dir": "models/tseltal"
     }
 }
 
