@@ -6,7 +6,7 @@ from sklearn.neighbors import NearestNeighbors
 import joblib
 
 DATA_PATH = "data/dataset_zapoteco_basico.csv"
-MODEL_DIR = "models"
+MODEL_DIR = "models/tzeltal"
 
 def entrenar_y_guardar_modelos():
     print("📥 Cargando dataset...")
