@@ -12,7 +12,7 @@ IDIOMAS = {
         "modelo_dir": "models/zapoteco"
     },
     "tzeltal": {
-        "csv": "data/dataset_tzeltal.csv",
+        "csv": "data/diccionario_tseltal.csv",
         "col_idioma": "tzeltal",
         "col_espanol": "español",
         "modelo_dir": "models/tzeltal"
