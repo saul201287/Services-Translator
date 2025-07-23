@@ -21,16 +21,16 @@ IDIOMAS = {
 
 def entrenar_y_guardar_modelos(idioma):
     config = IDIOMAS[idioma]
-    print(f"📥 Cargando dataset: {config['csv']}")
+    print(f" Cargando dataset: {config['csv']}")
     df = pd.read_csv(config["csv"], encoding="utf-8")
 
-    print(f"🧠 Entrenando modelo {idioma} → español...")
+    print(f" Entrenando modelo {idioma} → español...")
     vectorizer_idioma = TfidfVectorizer(analyzer='char', ngram_range=(1, 3))
     X_idioma = vectorizer_idioma.fit_transform(df[config["col_idioma"]])
     knn_idioma = NearestNeighbors(n_neighbors=1, metric="cosine")
     knn_idioma.fit(X_idioma)
 
-    print(f"🧠 Entrenando modelo español → {idioma}...")
+    print(f" Entrenando modelo español → {idioma}...")
     vectorizer_esp = TfidfVectorizer(analyzer='char', ngram_range=(1, 3))
     X_esp = vectorizer_esp.fit_transform(df[config["col_espanol"]])
     knn_esp = NearestNeighbors(n_neighbors=1, metric="cosine")
@@ -38,17 +38,17 @@ def entrenar_y_guardar_modelos(idioma):
 
     os.makedirs(config["modelo_dir"], exist_ok=True)
 
-    print(f"💾 Guardando modelos en carpeta '{config['modelo_dir']}'...")
+    print(f" Guardando modelos en carpeta '{config['modelo_dir']}'...")
     joblib.dump(df, os.path.join(config["modelo_dir"], "dataset.pkl"))
     joblib.dump(vectorizer_idioma, os.path.join(config["modelo_dir"], "vectorizer_zap.pkl"))
     joblib.dump(knn_idioma, os.path.join(config["modelo_dir"], "knn_zap.pkl"))
     joblib.dump(vectorizer_esp, os.path.join(config["modelo_dir"], "vectorizer_esp.pkl"))
     joblib.dump(knn_esp, os.path.join(config["modelo_dir"], "knn_esp.pkl"))
 
-    print(f"✅ Modelos de {idioma} entrenados y guardados correctamente.")
+    print(f" Modelos de {idioma} entrenados y guardados correctamente.")
 
 if __name__ == "__main__":
-    print("🔁 INTERFAZ DE ENTRENAMIENTO DE MODELOS")
+    print("INTERFAZ DE ENTRENAMIENTO DE MODELOS")
     print("1. Entrenar modelos zapoteco")
     print("2. Entrenar modelos tzeltal")
     print("3. Entrenar ambos idiomas")
@@ -62,4 +62,4 @@ if __name__ == "__main__":
         entrenar_y_guardar_modelos("zapoteco")
         entrenar_y_guardar_modelos("tzeltal")
     else:
-        print("❌ Opción no válida.")
+        print("Opción no válida.")
